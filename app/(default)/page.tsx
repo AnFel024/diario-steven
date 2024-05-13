@@ -15,8 +15,8 @@ export default function Home() {
       <Hero />
       <Features />
       <Zigzag />
-      <Testimonials />
       <Newsletter />
+      <h3 className="h3 py-10 px-8 md:py-16 md:px-12">Te quiero mucho flaco, gracias por llegar hasta aca y ten muy presente que contigo voy sin prisa y sin pausa. Con cariño, Andrés Morales</h3>
     </>
   )
 }
