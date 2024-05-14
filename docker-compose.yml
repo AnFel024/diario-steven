@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   app:
     container_name: docker_react
@@ -7,4 +5,4 @@ services:
     build:
       context: .
     ports:
-      3000:80
+      - 80:80
